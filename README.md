@@ -4,9 +4,9 @@ I designed a brand new website for book lovers using HTML5, CSS3, Bootstrap. In 
 
 # The following technologies were used in the frontend development phase of my site:
 
-HTML5
-CSS3
-Bootstrap
+- HTML5
+- CSS3
+- Bootstrap
 
 # Preview
 
